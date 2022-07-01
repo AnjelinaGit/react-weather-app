@@ -1,6 +1,6 @@
 import React from "react";
 import Weather from "./Weather";
-
+import FormattedDate from "./FormattedDate";
 import "./App.css";
 
 function App() {
